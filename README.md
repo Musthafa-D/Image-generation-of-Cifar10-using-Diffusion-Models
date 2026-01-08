@@ -30,5 +30,3 @@ Both conditional and unconditional of denoising diffusion models as well as late
 
 ---
 
-## Repository Structure
-
